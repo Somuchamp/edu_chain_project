@@ -39,5 +39,6 @@ The vision of this project is to revolutionize the insurance industry by providi
 ## Contract Details
 Contract Address: 0xbEEF8B539A851c2c8136f524C6943654c95c4e19
 ---
+![image](https://github.com/user-attachments/assets/dc562f72-ebc7-4afc-83c3-ab923c469dbd)
 
 
